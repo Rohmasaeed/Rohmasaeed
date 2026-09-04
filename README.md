@@ -4,8 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=6C63FF&center=true&vCenter=true&width=750&lines=Data+Science+Student;AI+%26+Machine+Learning+Enthusiast;Generative+AI+%26+Agentic+AI+Builder;Python+%7C+ML+%7C+GenAI+%7C+RAG;Turning+Data+into+Practical+Solutions" alt="Typing Animation" />
 </p>
 
-<img width="737" height="271" alt="github" src="https://github.com/user-attachments/assets/1266c508-3574-4f3d-b3d7-f89f0b76a1e7" />
-
+<p align="center">
+  <img width="737" height="271" alt="GitHub" src="https://github.com/user-attachments/assets/1266c508-3574-4f3d-b3d7-f89f0b76a1e7" />
+</p>
 
 <p align="center">
   🎓 <b>BS Data Science Student</b>
@@ -28,26 +29,46 @@
 
 ## 👩‍💻 About Me
 
+<table>
+<tr>
+<td width="65%" valign="middle">
+
 I'm a **BS Data Science student** passionate about building practical solutions with **Python, Machine Learning, Generative AI, and Agentic AI**.
 
 I enjoy turning raw data into meaningful insights and building intelligent applications that combine **data analytics, machine learning, LLMs, RAG, and automation**.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1800&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications+%F0%9F%A4%96;Exploring+RAG+%26+LLM+systems+%F0%9F%A7%A0;Turning+data+into+actionable+insights+%F0%9F%93%8A;Learning%2C+building%2C+and+shipping+%F0%9F%9A%80" alt="Animated Focus Areas" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1800&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+AI-powered+applications+%F0%9F%A4%96;Exploring+RAG+%26+LLM+systems+%F0%9F%A7%A0;Turning+data+into+actionable+insights+%F0%9F%93%8A;Learning%2C+building%2C+and+shipping+%F0%9F%9A%80" alt="Animated Focus Areas" />
 </p>
+
+</td>
+
+<td width="35%" align="center">
+
+<img width="330" alt="AI and Data Science" src="https://github.com/user-attachments/assets/a3595b7d-1ae0-4894-a7a8-7667f95f6208" />
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🚀 What I Work On
 
-| Area             | Focus                                |
-| ---------------- | ------------------------------------ |
-| 🤖 AI & Agents   | AI Agents, Agentic Workflows, CrewAI |
-| 🧠 Generative AI | LLM Applications, Prompt Engineering |
-| 🔎 RAG           | Embeddings, Retrieval, Vector Search |
-| 📊 Data Science  | Data Analysis, Visualization, ML     |
-| ⚙️ Automation    | n8n, AI-powered Workflows            |
-| 🌐 Applications  | Streamlit, FastAPI                   |
+| Area             | Focus                                          |
+| ---------------- | ---------------------------------------------- |
+| 🤖 AI & Agents   | AI Agents, Agentic Workflows, CrewAI           |
+| 🧠 Generative AI | LLM Applications, Prompt Engineering           |
+| 🔎 RAG           | Embeddings, Retrieval, Vector Search           |
+| 📊 Data Science  | Data Analysis, Visualization, Machine Learning |
+| ⚙️ Automation    | n8n, AI-powered Workflows                      |
+| 🌐 Applications  | Streamlit, FastAPI                             |
+
+---
+
+<p align="center">
+  <img width="850" alt="AI Projects" src="https://github.com/user-attachments/assets/19944138-7383-4efd-99b6-41af496574ca" />
+</p>
 
 ---
 
@@ -97,7 +118,7 @@ AI assistant designed for research, study, productivity, information processing,
 
 ### 📊 AI Data Analyst
 
-Interactive AI-powered analytics application that allows users to analyze CSV datasets, generate insights, and perform natural-language data exploration.
+Interactive AI-powered analytics application for analyzing CSV datasets, generating insights, and performing natural-language data exploration.
 
 **Tech:** `Streamlit` `Pandas` `Python` `LLMs`
 
@@ -163,7 +184,7 @@ Machine learning classification project comparing multiple models for predicting
 # 📊 GitHub Analytics
 
 <p align="center">
-  username=Rohmasaeed&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170" alt="GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohmasaeed&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170" alt="GitHub Statistics" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohmasaeed&layout=compact&hide_border=true" height="170" alt="Top Languages" />
 </p>
 
@@ -185,8 +206,11 @@ Machine learning classification project comparing multiple models for predicting
 
 ---
 
-# 🤝 Let's Connect <img width="360" height="360" alt="g3" src="https://github.com/user-attachments/assets/2676646f-0ca4-4d7c-a2f3-3d134bf2fded" />
+## 🤝 Let's Connect
 
+<p align="center">
+  <img width="260" alt="Connect" src="https://github.com/user-attachments/assets/2676646f-0ca4-4d7c-a2f3-3d134bf2fded" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rohma-saeed-367288353/">

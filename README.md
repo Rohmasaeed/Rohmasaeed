@@ -1,11 +1,13 @@
 # 👋 Hi, I'm Rohma Saeed
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=6C63FF&center=true&vCenter=true&width=750&lines=Data+Science+Student;AI+%26+Machine+Learning+Enthusiast;Generative+AI+%26+Agentic+AI+Builder;Python+%7C+ML+%7C+GenAI+%7C+RAG;Turning+Data+into+Practical+Solutions" alt="Typing Animation" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=6C63FF&center=true&vCenter=true&width=750&lines=Data+Science+Student;AI+%26+Machine+Learning+Enthusiast;Generative+AI+%26+Agentic+AI+Builder;Python+%7C+ML+%7C+GenAI+%7C+RAG;Turning+Data+into+Practical+Solutions" alt="Typing Animation" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=190&section=header&text=Data%20Science%20%26%20AI%20Engineering&fontSize=32&fontColor=ffffff&animation=twinkling" width="100%" alt="Animated Data Science Banner" />
+  <img src="https://svg-banners.my.id/api?type=waving&text=Data%20Science%20%26%20AI%20Engineering&width=800&height=180&color=6C63FF" width="100%" alt="Data Science Banner" />
 </p>
 
 <p align="center">
@@ -22,7 +24,7 @@
 </p>
 
 <p align="center">
-  <a href="YOUR-LINKEDIN-URL">
+  <a href="https://linkedin.com">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Rohmasaeed">

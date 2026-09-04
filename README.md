@@ -53,6 +53,38 @@ I'm a **BS Data Science student** passionate about transforming data into practi
 
 ---
 
+## 🛠️ Tech Stack & Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,docker&theme=dark" alt="Tech Stack" />
+</p>
+
+```text
+📊 Data Science & Analytics  :: Python • Pandas • NumPy • Matplotlib • Seaborn • SQL
+🤖 Machine Learning & AI     :: Scikit-learn • XGBoost • LightGBM • CatBoost • SHAP
+🧠 GenAI & Agentic AI        :: LLMs • RAG • CrewAI • Prompt Engineering • NLP
+⚙️ Deployment & Workflows    :: Streamlit • FastAPI • Docker • n8n • MySQL • Git
+🌟 Featured Projects
+Project	Description	Stack
+🤖 Automated Reporting Agent	AI agent workflow that analyzes tabular datasets, synthesizes insights, and automates report generation.	Python Agentic AI LLMs
+🧠 Personal AI Assistant	AI assistant built to support research workflows, study automation, and smart context retrieval.	Python RAG Agentic AI
+📊 AI Data Analyst	Interactive natural language engine that executes instant analytics queries and visual checks on CSV files.	Streamlit Pandas LLMs
+🎯 CareerPilot AI	Career intelligence platform featuring machine learning recommendation scoring, skill gap analysis, and roadmaps.	Scikit-learn NLP Streamlit
+🎬 Movie Recommender System	Content-based recommendation engine utilizing vector similarities to suggest relevant movies.	Python Scikit-learn ML
+📊 GitHub Analytics
+🐍 Contribution Activity
+
+### 🚀 What I'm Focused On
+
+* 🤖 Building **AI Agents & Agentic Workflows**
+* 🧠 Developing **Generative AI & LLM Applications**
+* 🔎 Exploring **RAG, Embeddings & Vector Search**
+* 📊 Building **Data Analytics & ML Applications**
+* ⚙️ Automating workflows with **n8n**
+* 🌐 Creating interactive applications with **Streamlit**
+
+---
+
 # 🛠️ Tech Stack & Skills
 
 <p align="center">

@@ -1,18 +1,23 @@
 # 👋 Hi, I'm Rohma Saeed
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=6C63FF&center=true&vCenter=true&width=700&lines=Data+Science+Student;AI+%26+Machine+Learning+Enthusiast;Generative+AI+%26+Agentic+AI+Builder;Turning+Data+into+Practical+Solutions" alt="Typing Animation" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=6C63FF&center=true&vCenter=true&width=750&lines=Data+Science+Student;AI+%26+Machine+Learning+Enthusiast;Generative+AI+%26+Agentic+AI+Builder;Python+%7C+ML+%7C+GenAI+%7C+RAG;Turning+Data+into+Practical+Solutions" alt="Typing Animation" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=170&section=header&text=Data%20Science%20%26%20AI%20Engineering&fontSize=30&fontColor=ffffff&animation=twinkle" width="100%" alt="Data Science and AI Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=190&section=header&text=Data%20Science%20%26%20AI%20Engineering&fontSize=32&fontColor=ffffff&animation=twinkling" width="100%" alt="Animated Data Science Banner" />
 </p>
 
 <p align="center">
-  🎓 <b>BS Data Science Student</b> &nbsp;•&nbsp;
-  🤖 <b>AI & ML Builder</b> &nbsp;•&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Rohmasaeed&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Rohmasaeed?label=Followers&style=for-the-badge&color=6C63FF" alt="GitHub Followers" />
+</p>
+
+<p align="center">
+  🎓 <b>BS Data Science Student</b>
+  &nbsp; • &nbsp;
+  🤖 <b>AI & ML Builder</b>
+  &nbsp; • &nbsp;
   📊 <b>Data Analyst</b>
 </p>
 
@@ -29,19 +34,34 @@
 
 ## 👩‍💻 About Me
 
-I'm a **BS Data Science student** passionate about turning complex datasets into practical solutions using **Python, Machine Learning, Generative AI, and Agentic AI**.
+I'm a **BS Data Science student** passionate about transforming data into practical, intelligent solutions using **Python, Machine Learning, Generative AI, and Agentic AI**.
 
-* 🚀 **Focus:** Combining **Data Science + AI + Automation** to build intelligent, end-to-end applications.
-* 🛠️ **Building:** AI agents, RAG pipelines, machine learning applications, and data-driven dashboards.
-* 💡 **Interests:** Machine Learning, Generative AI, Agentic AI, Data Analytics, NLP, and AI Automation.
-* 💬 **Ask me about:** Python, Machine Learning, Model Evaluation, RAG, SQL, Streamlit, CrewAI, and n8n workflows.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1800&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications+%F0%9F%A4%96;Exploring+RAG+%26+LLM+systems+%F0%9F%A7%A0;Turning+data+into+actionable+insights+%F0%9F%93%8A;Learning%2C+building%2C+and+shipping+%F0%9F%9A%80" alt="Animated Focus Areas" />
+</p>
+
+### 🚀 What I'm Focused On
+
+* 🤖 Building **AI Agents & Agentic Workflows**
+* 🧠 Developing **Generative AI & LLM Applications**
+* 🔎 Exploring **RAG, Embeddings & Vector Search**
+* 📊 Building **Data Analytics & ML Applications**
+* ⚙️ Automating workflows with **n8n**
+* 🌐 Creating interactive applications with **Streamlit**
 
 ---
 
-## 🛠️ Tech Stack & Skills
+# 🛠️ Tech Stack & Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,docker&theme=dark" alt="Tech Stack" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Data%20Science-6C63FF?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-AI-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Generative%20AI-LLMs-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-Agentic%20AI-6C63FF?style=for-the-badge" />
 </p>
 
 ```text
@@ -55,74 +75,106 @@ I'm a **BS Data Science student** passionate about turning complex datasets into
 
 # 🌟 Featured Projects
 
-## 🤖 Automated Reporting Agent
+<table>
+<tr>
+<td width="50%">
 
-An AI-powered agentic application designed to analyze data, generate meaningful insights, prepare reports, and automate report delivery.
+### 🤖 Automated Reporting Agent
 
-🔗 **[View Project on GitHub →](https://github.com/Rohmasaeed/agenticai_projects/tree/main/insightflow_ai)**
+AI agent workflow that analyzes tabular datasets, generates insights, prepares reports, and automates report delivery.
 
-**Tech:** `Python` `Agentic AI` `LLMs` `Data Analysis` `Automation`
+🔗 **[View Project →](https://github.com/Rohmasaeed/agenticai_projects/tree/main/insightflow_ai)**
+
+`Python` `Agentic AI` `LLMs` `Automation`
+
+</td>
+
+<td width="50%">
+
+### 🧠 Personal AI Assistant
+
+AI assistant designed for research, study, productivity, information processing, and context-aware retrieval.
+
+🔗 **[View Project →](https://github.com/Rohmasaeed/agenticai_projects/tree/main/personalai_assistant)**
+
+`Python` `RAG` `Agentic AI`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📊 AI Data Analyst
+
+Interactive AI-powered analytics application for analyzing CSV datasets and generating data-driven insights.
+
+🔗 **[View Project →](https://github.com/Rohmasaeed/AI-Powered-Data-Analyst)**
+
+`Streamlit` `Pandas` `LLMs`
+
+</td>
+
+<td width="50%">
+
+### 🎯 CareerPilot AI
+
+Career intelligence platform featuring ML recommendations, skill-gap analysis, career roadmaps, NLP, and visualization.
+
+🔗 **[View Project →](https://github.com/Rohmasaeed/ai_career_reccomendation)**
+
+`Scikit-learn` `NLP` `Streamlit`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎬 Movie Recommendation System
+
+Content-based recommendation engine using movie similarity to suggest relevant movies based on user preferences.
+
+🔗 **[View Project →](https://github.com/Rohmasaeed/Movie-recommendation-system)**
+
+`Python` `Pandas` `Scikit-learn`
+
+</td>
+
+<td width="50%">
+
+### 📈 Customer Churn Prediction
+
+Machine learning classification project comparing multiple models for predicting customer churn.
+
+**Models:** Logistic Regression • Random Forest • Gradient Boosting
+
+`Python` `Pandas` `Scikit-learn`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧠 Personal AI Assistant
+# ⚡ Currently Building
 
-An AI assistant project focused on using AI tools to support research, study, productivity, and information-processing tasks.
-
-🔗 **[View Project on GitHub →](https://github.com/Rohmasaeed/agenticai_projects/tree/main/personalai_assistant)**
-
-**Tech:** `Python` `Agentic AI` `LLMs` `RAG` `AI Tools`
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=6C63FF&center=true&vCenter=true&width=700&lines=AI+Agents+%7C+RAG+%7C+LLMs;Data+Analytics+%7C+Machine+Learning;AI+Automation+%7C+n8n;Building+practical+AI+solutions+%F0%9F%9A%80" alt="Currently Building Animation" />
+</p>
 
 ---
 
-## 📊 AI Data Analyst
-
-An AI-powered data analytics application that helps analyze datasets and generate data-driven insights.
-
-🔗 **[View Project on GitHub →](https://github.com/Rohmasaeed/AI-Powered-Data-Analyst)**
-
-**Tech:** `Python` `Pandas` `AI/LLMs` `Data Analysis` `Streamlit`
-
----
-
-## 🎯 CareerPilot AI
-
-An AI-powered career recommendation system combining machine learning, NLP, personalized recommendations, career roadmaps, and data visualization.
-
-🔗 **[View Project on GitHub →](https://github.com/Rohmasaeed/ai_career_reccomendation)**
-
-**Tech:** `Python` `Scikit-learn` `NLP` `Streamlit` `MySQL`
-
----
-
-## 🎬 Movie Recommendation System
-
-A machine learning-based recommendation system that suggests movies based on user preferences and movie similarity.
-
-🔗 **[View Project on GitHub →](https://github.com/Rohmasaeed/Movie-recommendation-system)**
-
-**Tech:** `Python` `Pandas` `Scikit-learn` `Machine Learning` `Recommendation Systems`
-
----
-
-## 📈 Customer Churn Prediction
-
-A machine learning classification project focused on predicting customer churn and comparing multiple predictive models.
-
-**Models:** `Logistic Regression` `Random Forest` `Gradient Boosting`
-
-**Tech:** `Python` `Pandas` `Scikit-learn` `Machine Learning`
-
----
-
-# 📚 Currently Learning & Exploring
+# 📚 Currently Learning
 
 ```text
 🤖 Agentic AI & AI Frameworks
 🧠 Generative AI & LLM Applications
 🔎 Retrieval-Augmented Generation (RAG)
-📈 Advanced Machine Learning & Model Explainability
-⚙️ AI-powered Automation & n8n Workflows
+🗃️ Vector Databases & Embeddings
+📈 Advanced Machine Learning
+🔍 Model Explainability
+⚙️ AI-powered Automation & n8n
 📊 Advanced Data Analytics
 ```
 
@@ -131,8 +183,12 @@ A machine learning classification project focused on predicting customer churn a
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohmasaeed&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="Rohma's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohmasaeed&layout=compact&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohmasaeed&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170" alt="Rohma's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohmasaeed&layout=compact&hide_border=true" height="170" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohmasaeed&hide_border=true" height="170" alt="GitHub Streak" />
 </p>
 
 ---
@@ -161,10 +217,15 @@ A machine learning classification project focused on predicting customer churn a
 </p>
 
 <p align="center">
-  📫 <b>Open to:</b> Data Science • Machine Learning • AI • Generative AI • Internship Opportunities
+  📫 <b>Open to:</b>
+  Data Science • Machine Learning • AI • Generative AI • Internship Opportunities
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=100&section=footer&animation=twinkling" width="100%" alt="Animated Footer" />
+</p>
 
 <p align="center">
   <i>⭐ Building with data, learning AI, and turning ideas into practical solutions.</i>

@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hi, I'm Rohma Saeed</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=4B0082&center=true&vCenter=true&width=750&lines=Data+Science+Student;AI+%26+Machine+Learning+Enthusiast;Generative+AI+%26+Agentic+AI+Builder;Python+%7C+ML+%7C+GenAI+%7C+RAG;Turning+Data+into+Practical+Solutions" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=8A2BE2&center=true&vCenter=true&width=750&lines=Data+Science+Student;AI+%26+Machine+Learning+Enthusiast;Generative+AI+%26+Agentic+AI+Builder;Python+%7C+ML+%7C+GenAI+%7C+RAG;Turning+Data+into+Practical+Solutions" alt="Typing Animation" />
 </p>
 
 <p align="center">
-  <img width="760" alt="GitHub Profile Banner" src="https://github.com/user-attachments/assets/1266c508-3574-4f3d-b3d7-f89f0b76a1e7" />
+  <img width="780" alt="Profile Banner" src="https://github.com/user-attachments/assets/c707bf08-240e-4cd9-b029-09522f0ddeac" />
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@ I'm continuously learning, experimenting with new technologies, and turning idea
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1800&color=4B0082&center=true&vCenter=true&width=600&lines=Building+AI-powered+applications+%F0%9F%A4%96;Exploring+RAG+%26+LLM+systems+%F0%9F%A7%A0;Turning+data+into+actionable+insights+%F0%9F%93%8A;Learning%2C+building%2C+and+shipping+%F0%9F%9A%80" alt="Animated Focus Areas" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1600&color=8A2BE2&center=true&vCenter=true&width=600&lines=Building+AI-powered+applications+%F0%9F%A4%96;Exploring+RAG+%26+LLM+systems+%F0%9F%A7%A0;Turning+data+into+actionable+insights+%F0%9F%93%8A;Learning%2C+building%2C+and+shipping+%F0%9F%9A%80" alt="Animated Focus Areas" />
 </p>
 
 </td>
@@ -69,7 +69,7 @@ I'm continuously learning, experimenting with new technologies, and turning idea
 <table>
 <tr>
 
-<td width="65%" valign="middle">
+<td width="60%" valign="middle">
 
 <table>
 <tr>
@@ -111,9 +111,9 @@ I'm continuously learning, experimenting with new technologies, and turning idea
 
 </td>
 
-<td width="35%" align="center">
+<td width="40%" align="center">
 
-<img width="420" alt="AI Projects and Work" src="https://github.com/user-attachments/assets/19944138-7383-4efd-99b6-41af496574ca" />
+<img width="500" alt="AI Projects and Work" src="https://github.com/user-attachments/assets/19944138-7383-4efd-99b6-41af496574ca" />
 
 </td>
 
@@ -268,7 +268,7 @@ Machine learning classification project comparing multiple models for predicting
 <h2 align="center">⚡ Currently Building</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=4B0082&center=true&vCenter=true&width=700&lines=AI+Agents+%7C+RAG+%7C+LLMs;Data+Analytics+%7C+Machine+Learning;AI+Automation+%7C+n8n;Building+practical+AI+solutions+%F0%9F%9A%80" alt="Currently Building Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1400&color=8A2BE2&center=true&vCenter=true&width=700&lines=AI+Agents+%7C+RAG+%7C+LLMs;Data+Analytics+%7C+Machine+Learning;AI+Automation+%7C+n8n;Building+practical+AI+solutions+%F0%9F%9A%80" alt="Currently Building Animation" />
 </p>
 
 ---
@@ -312,7 +312,7 @@ Machine learning classification project comparing multiple models for predicting
 <table>
 <tr>
 
-<td width="65%" valign="middle">
+<td width="60%" valign="middle">
 
 <h3 align="center">💜 Let's Build Something Together</h3>
 
@@ -331,13 +331,17 @@ feel free to reach out.
 <br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rohma-saeed-367288353/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-4B0082?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Rohmasaeed">
-    <img src="https://img.shields.io/badge/GitHub-Explore-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+
+<a href="https://www.linkedin.com/in/rohma-saeed-367288353/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-4B0082?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+  
+
+<a href="https://github.com/Rohmasaeed">
+  <img src="https://img.shields.io/badge/GitHub-Explore-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
 </p>
 
 <p align="center">
@@ -350,9 +354,9 @@ feel free to reach out.
 
 </td>
 
-<td width="35%" align="center">
+<td width="40%" align="center">
 
-<img width="270" alt="Let's Connect" src="https://github.com/user-attachments/assets/2676646f-0ca4-4d7c-a2f3-3d134bf2fded" />
+<img width="400" alt="Let's Connect" src="https://github.com/user-attachments/assets/8132e116-e35a-4ffe-8f6d-23db24af2ba1" />
 
 </td>
 
@@ -368,4 +372,5 @@ feel free to reach out.
 <p align="center">
   <i>⭐ Building with data, learning AI, and turning ideas into practical solutions.</i>
 </p>
+
 

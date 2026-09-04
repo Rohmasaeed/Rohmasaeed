@@ -1,32 +1,3 @@
-# 👋 Hi, I'm Rohma Saeed
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=6C63FF&center=true&vCenter=true&width=750&lines=Data+Science+Student;AI+%26+Machine+Learning+Enthusiast;Generative+AI+%26+Agentic+AI+Builder;Python+%7C+ML+%7C+GenAI+%7C+RAG;Turning+Data+into+Practical+Solutions" alt="Typing Animation" />
-</p>
-
-<p align="center">
-  <img width="737" height="271" alt="GitHub" src="https://github.com/user-attachments/assets/1266c508-3574-4f3d-b3d7-f89f0b76a1e7" />
-</p>
-
-<p align="center">
-  🎓 <b>BS Data Science Student</b>
-  &nbsp; • &nbsp;
-  🤖 <b>AI & ML Builder</b>
-  &nbsp; • &nbsp;
-  📊 <b>Data Analyst</b>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rohma-saeed-367288353/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Rohmasaeed">
-    <img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
----
-
 ## 👩‍💻 About Me
 
 <table>
@@ -45,7 +16,7 @@ I enjoy turning raw data into meaningful insights and building intelligent appli
 
 <td width="35%" align="center">
 
-<img width="330" alt="AI and Data Science" src="https://github.com/user-attachments/assets/a3595b7d-1ae0-4894-a7a8-7667f95f6208" />
+<img width="280" alt="AI and Data Science" src="https://github.com/user-attachments/assets/a3595b7d-1ae0-4894-a7a8-7667f95f6208" />
 
 </td>
 </tr>
@@ -55,6 +26,10 @@ I enjoy turning raw data into meaningful insights and building intelligent appli
 
 ## 🚀 What I Work On
 
+<p align="center">
+  <img width="620" alt="AI Projects and Work" src="https://github.com/user-attachments/assets/19944138-7383-4efd-99b6-41af496574ca" />
+</p>
+
 | Area             | Focus                                          |
 | ---------------- | ---------------------------------------------- |
 | 🤖 AI & Agents   | AI Agents, Agentic Workflows, CrewAI           |
@@ -63,12 +38,6 @@ I enjoy turning raw data into meaningful insights and building intelligent appli
 | 📊 Data Science  | Data Analysis, Visualization, Machine Learning |
 | ⚙️ Automation    | n8n, AI-powered Workflows                      |
 | 🌐 Applications  | Streamlit, FastAPI                             |
-
----
-
-<p align="center">
-  <img width="850" alt="AI Projects" src="https://github.com/user-attachments/assets/19944138-7383-4efd-99b6-41af496574ca" />
-</p>
 
 ---
 
@@ -94,123 +63,11 @@ I enjoy turning raw data into meaningful insights and building intelligent appli
 
 ---
 
-# 🌟 Featured Projects
-
-### 🤖 Automated Reporting Agent
-
-AI-powered agent workflow that analyzes tabular datasets, synthesizes insights, generates reports, and automates report delivery.
-
-**Tech:** `Python` `Agentic AI` `LLMs` `Automation`
-
-🔗 [View Project →](https://github.com/Rohmasaeed/agenticai_projects/tree/main/insightflow_ai)
-
----
-
-### 🧠 Personal AI Assistant
-
-AI assistant designed for research, study, productivity, information processing, and context-aware retrieval using agentic workflows and RAG.
-
-**Tech:** `Python` `RAG` `Agentic AI` `LLMs`
-
-🔗 [View Project →](https://github.com/Rohmasaeed/agenticai_projects/tree/main/personalai_assistant)
-
----
-
-### 📊 AI Data Analyst
-
-Interactive AI-powered analytics application for analyzing CSV datasets, generating insights, and performing natural-language data exploration.
-
-**Tech:** `Streamlit` `Pandas` `Python` `LLMs`
-
-🔗 [View Project →](https://github.com/Rohmasaeed/AI-Powered-Data-Analyst)
-
----
-
-### 🎯 CareerPilot AI
-
-Career intelligence platform featuring machine learning recommendations, skill-gap analysis, career roadmaps, NLP, visualization, and personalized career guidance.
-
-**Tech:** `Scikit-learn` `NLP` `Streamlit` `MySQL`
-
-🔗 [View Project →](https://github.com/Rohmasaeed/ai_career_reccomendation)
-
----
-
-### 🎬 Movie Recommendation System
-
-Content-based recommendation engine that uses movie similarity to suggest relevant movies based on user preferences.
-
-**Tech:** `Python` `Pandas` `Scikit-learn`
-
-🔗 [View Project →](https://github.com/Rohmasaeed/Movie-recommendation-system)
-
----
-
-### 📈 Customer Churn Prediction
-
-Machine learning classification project comparing multiple models for predicting customer churn.
-
-**Models:** `Logistic Regression` `Random Forest` `Gradient Boosting`
-
-**Best Accuracy:** `86.34%`
-
-**Tech:** `Python` `Pandas` `Scikit-learn`
-
----
-
-# ⚡ Currently Building
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=6C63FF&center=true&vCenter=true&width=700&lines=AI+Agents+%7C+RAG+%7C+LLMs;Data+Analytics+%7C+Machine+Learning;AI+Automation+%7C+n8n;Building+practical+AI+solutions+%F0%9F%9A%80" alt="Currently Building Animation" />
-</p>
-
----
-
-# 📚 Currently Learning
-
-```text
-🤖 Agentic AI & AI Frameworks
-🧠 Generative AI & LLM Applications
-🔎 Retrieval-Augmented Generation (RAG)
-🗃️ Vector Databases & Embeddings
-📈 Advanced Machine Learning
-🔍 Model Explainability
-⚙️ AI-powered Automation & n8n
-📊 Advanced Data Analytics
-```
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohmasaeed&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170" alt="GitHub Statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohmasaeed&layout=compact&hide_border=true" height="170" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohmasaeed&hide_border=true" height="170" alt="GitHub Contribution Streak" />
-</p>
-
----
-
-# 🐍 Contribution Activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rohmasaeed/Rohmasaeed/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rohmasaeed/Rohmasaeed/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/Rohmasaeed/Rohmasaeed/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
-  </picture>
-</p>
-
----
-
 ## 🤝 Let's Connect
 
-<p align="center">
-  <img width="260" alt="Connect" src="https://github.com/user-attachments/assets/2676646f-0ca4-4d7c-a2f3-3d134bf2fded" />
-</p>
+<table>
+<tr>
+<td width="65%" valign="middle">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rohma-saeed-367288353/">
@@ -222,15 +79,17 @@ Machine learning classification project comparing multiple models for predicting
 </p>
 
 <p align="center">
-  <b>Open to:</b> Data Science • Machine Learning • AI • Generative AI • Internship Opportunities
+  <b>Open to:</b><br>
+  Data Science • Machine Learning • AI<br>
+  Generative AI • Internship Opportunities
 </p>
 
----
+</td>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&animation=twinkling&color=gradient" width="100%" alt="Animated Footer" />
-</p>
+<td width="35%" align="center">
 
-<p align="center">
-  <i>⭐ Building with data, learning AI, and turning ideas into practical solutions.</i>
-</p>
+<img width="280" alt="Let's Connect" src="https://github.com/user-attachments/assets/de6c67e7-4d93-4f52-8f9e-2fcfe24b7130" />
+
+</td>
+</tr>
+</table>

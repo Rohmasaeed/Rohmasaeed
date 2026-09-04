@@ -163,7 +163,7 @@ Machine learning classification project comparing multiple models for predicting
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohmasaeed&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170" alt="GitHub Statistics" />
+  username=Rohmasaeed&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170" alt="GitHub Statistics" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohmasaeed&layout=compact&hide_border=true" height="170" alt="Top Languages" />
 </p>
 
@@ -185,7 +185,8 @@ Machine learning classification project comparing multiple models for predicting
 
 ---
 
-# 🤝 Let's Connect
+# 🤝 Let's Connect <img width="360" height="360" alt="g3" src="https://github.com/user-attachments/assets/2676646f-0ca4-4d7c-a2f3-3d134bf2fded" />
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rohma-saeed-367288353/">

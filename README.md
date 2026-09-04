@@ -4,9 +4,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=6C63FF&center=true&vCenter=true&width=750&lines=Data+Science+Student;AI+%26+Machine+Learning+Enthusiast;Generative+AI+%26+Agentic+AI+Builder;Python+%7C+ML+%7C+GenAI+%7C+RAG;Turning+Data+into+Practical+Solutions" alt="Typing Animation" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=Data%20Science%20%26%20AI%20Engineering&fontSize=32&fontColor=ffffff&animation=twinkling&color=gradient" width="100%" alt="Data Science and AI Engineering Banner" />
-</p>
+<img width="737" height="271" alt="github" src="https://github.com/user-attachments/assets/1266c508-3574-4f3d-b3d7-f89f0b76a1e7" />
+
 
 <p align="center">
   🎓 <b>BS Data Science Student</b>

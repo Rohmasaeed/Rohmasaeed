@@ -1,18 +1,11 @@
 # 👋 Hi, I'm Rohma Saeed
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=6C63FF&center=true&vCenter=true&width=750&lines=Data+Science+Student;AI+%26+Machine+Learning+Enthusiast;Generative+AI+%26+Agentic+AI+Builder;Python+%7C+ML+%7C+GenAI+%7C+RAG;Turning+Data+into+Practical+Solutions" alt="Typing Animation" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=6C63FF&center=true&vCenter=true&width=750&lines=Data+Science+Student;AI+%26+Machine+Learning+Enthusiast;Generative+AI+%26+Agentic+AI+Builder;Python+%7C+ML+%7C+GenAI+%7C+RAG;Turning+Data+into+Practical+Solutions" alt="Typing Animation" />
 </p>
 
 <p align="center">
-  <img src="https://svg-banners.my.id/api?type=waving&text=Data%20Science%20%26%20AI%20Engineering&width=800&height=180&color=6C63FF" width="100%" alt="Data Science Banner" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rohmasaeed&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Rohmasaeed?label=Followers&style=for-the-badge&color=6C63FF" alt="GitHub Followers" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=Data%20Science%20%26%20AI%20Engineering&fontSize=32&fontColor=ffffff&animation=twinkling&color=gradient" width="100%" alt="Data Science and AI Engineering Banner" />
 </p>
 
 <p align="center">
@@ -24,11 +17,11 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com">
+  <a href="https://www.linkedin.com/in/rohma-saeed-367288353/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Rohmasaeed">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -36,59 +29,33 @@
 
 ## 👩‍💻 About Me
 
-I'm a **BS Data Science student** passionate about transforming data into practical, intelligent solutions using **Python, Machine Learning, Generative AI, and Agentic AI**.
+I'm a **BS Data Science student** passionate about building practical solutions with **Python, Machine Learning, Generative AI, and Agentic AI**.
+
+I enjoy turning raw data into meaningful insights and building intelligent applications that combine **data analytics, machine learning, LLMs, RAG, and automation**.
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1800&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications+%F0%9F%A4%96;Exploring+RAG+%26+LLM+systems+%F0%9F%A7%A0;Turning+data+into+actionable+insights+%F0%9F%93%8A;Learning%2C+building%2C+and+shipping+%F0%9F%9A%80" alt="Animated Focus Areas" />
 </p>
 
-### 🚀 What I'm Focused On
+---
 
-* 🤖 Building **AI Agents & Agentic Workflows**
-* 🧠 Developing **Generative AI & LLM Applications**
-* 🔎 Exploring **RAG, Embeddings & Vector Search**
-* 📊 Building **Data Analytics & ML Applications**
-* ⚙️ Automating workflows with **n8n**
-* 🌐 Creating interactive applications with **Streamlit**
+## 🚀 What I Work On
+
+| Area             | Focus                                |
+| ---------------- | ------------------------------------ |
+| 🤖 AI & Agents   | AI Agents, Agentic Workflows, CrewAI |
+| 🧠 Generative AI | LLM Applications, Prompt Engineering |
+| 🔎 RAG           | Embeddings, Retrieval, Vector Search |
+| 📊 Data Science  | Data Analysis, Visualization, ML     |
+| ⚙️ Automation    | n8n, AI-powered Workflows            |
+| 🌐 Applications  | Streamlit, FastAPI                   |
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,docker&theme=dark" alt="Tech Stack" />
-</p>
-
-```text
-📊 Data Science & Analytics  :: Python • Pandas • NumPy • Matplotlib • Seaborn • SQL
-🤖 Machine Learning & AI     :: Scikit-learn • XGBoost • LightGBM • CatBoost • SHAP
-🧠 GenAI & Agentic AI        :: LLMs • RAG • CrewAI • Prompt Engineering • NLP
-⚙️ Deployment & Workflows    :: Streamlit • FastAPI • Docker • n8n • MySQL • Git
-🌟 Featured Projects
-Project	Description	Stack
-🤖 Automated Reporting Agent	AI agent workflow that analyzes tabular datasets, synthesizes insights, and automates report generation.	Python Agentic AI LLMs
-🧠 Personal AI Assistant	AI assistant built to support research workflows, study automation, and smart context retrieval.	Python RAG Agentic AI
-📊 AI Data Analyst	Interactive natural language engine that executes instant analytics queries and visual checks on CSV files.	Streamlit Pandas LLMs
-🎯 CareerPilot AI	Career intelligence platform featuring machine learning recommendation scoring, skill gap analysis, and roadmaps.	Scikit-learn NLP Streamlit
-🎬 Movie Recommender System	Content-based recommendation engine utilizing vector similarities to suggest relevant movies.	Python Scikit-learn ML
-📊 GitHub Analytics
-🐍 Contribution Activity
-
-### 🚀 What I'm Focused On
-
-* 🤖 Building **AI Agents & Agentic Workflows**
-* 🧠 Developing **Generative AI & LLM Applications**
-* 🔎 Exploring **RAG, Embeddings & Vector Search**
-* 📊 Building **Data Analytics & ML Applications**
-* ⚙️ Automating workflows with **n8n**
-* 🌐 Creating interactive applications with **Streamlit**
-
----
-
-# 🛠️ Tech Stack & Skills
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,docker&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,docker&theme=dark" alt="Technology Stack" />
 </p>
 
 <p align="center">
@@ -99,95 +66,75 @@ Project	Description	Stack
 </p>
 
 ```text
-📊 Data Science & Analytics  :: Python • Pandas • NumPy • Matplotlib • Seaborn • SQL
-🤖 Machine Learning & AI     :: Scikit-learn • XGBoost • LightGBM • CatBoost • SHAP
-🧠 GenAI & Agentic AI        :: LLMs • RAG • CrewAI • Prompt Engineering • NLP
-⚙️ Deployment & Automation   :: Streamlit • FastAPI • Docker • n8n • MySQL • Git
+📊 Data Science       :: Python • Pandas • NumPy • Matplotlib • Seaborn • SQL
+🤖 Machine Learning   :: Scikit-learn • XGBoost • LightGBM • CatBoost • SHAP
+🧠 GenAI & Agents    :: LLMs • RAG • CrewAI • NLP • Prompt Engineering
+⚙️ Tools & Deployment :: Streamlit • FastAPI • Docker • n8n • MySQL • Git
 ```
 
 ---
 
 # 🌟 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
 ### 🤖 Automated Reporting Agent
 
-AI agent workflow that analyzes tabular datasets, generates insights, prepares reports, and automates report delivery.
+AI-powered agent workflow that analyzes tabular datasets, synthesizes insights, generates reports, and automates report delivery.
 
-🔗 **[View Project →](https://github.com/Rohmasaeed/agenticai_projects/tree/main/insightflow_ai)**
+**Tech:** `Python` `Agentic AI` `LLMs` `Automation`
 
-`Python` `Agentic AI` `LLMs` `Automation`
+🔗 [View Project →](https://github.com/Rohmasaeed/agenticai_projects/tree/main/insightflow_ai)
 
-</td>
-
-<td width="50%">
+---
 
 ### 🧠 Personal AI Assistant
 
-AI assistant designed for research, study, productivity, information processing, and context-aware retrieval.
+AI assistant designed for research, study, productivity, information processing, and context-aware retrieval using agentic workflows and RAG.
 
-🔗 **[View Project →](https://github.com/Rohmasaeed/agenticai_projects/tree/main/personalai_assistant)**
+**Tech:** `Python` `RAG` `Agentic AI` `LLMs`
 
-`Python` `RAG` `Agentic AI`
+🔗 [View Project →](https://github.com/Rohmasaeed/agenticai_projects/tree/main/personalai_assistant)
 
-</td>
-</tr>
-
-<tr>
-<td width="50%">
+---
 
 ### 📊 AI Data Analyst
 
-Interactive AI-powered analytics application for analyzing CSV datasets and generating data-driven insights.
+Interactive AI-powered analytics application that allows users to analyze CSV datasets, generate insights, and perform natural-language data exploration.
 
-🔗 **[View Project →](https://github.com/Rohmasaeed/AI-Powered-Data-Analyst)**
+**Tech:** `Streamlit` `Pandas` `Python` `LLMs`
 
-`Streamlit` `Pandas` `LLMs`
+🔗 [View Project →](https://github.com/Rohmasaeed/AI-Powered-Data-Analyst)
 
-</td>
-
-<td width="50%">
+---
 
 ### 🎯 CareerPilot AI
 
-Career intelligence platform featuring ML recommendations, skill-gap analysis, career roadmaps, NLP, and visualization.
+Career intelligence platform featuring machine learning recommendations, skill-gap analysis, career roadmaps, NLP, visualization, and personalized career guidance.
 
-🔗 **[View Project →](https://github.com/Rohmasaeed/ai_career_reccomendation)**
+**Tech:** `Scikit-learn` `NLP` `Streamlit` `MySQL`
 
-`Scikit-learn` `NLP` `Streamlit`
+🔗 [View Project →](https://github.com/Rohmasaeed/ai_career_reccomendation)
 
-</td>
-</tr>
-
-<tr>
-<td width="50%">
+---
 
 ### 🎬 Movie Recommendation System
 
-Content-based recommendation engine using movie similarity to suggest relevant movies based on user preferences.
+Content-based recommendation engine that uses movie similarity to suggest relevant movies based on user preferences.
 
-🔗 **[View Project →](https://github.com/Rohmasaeed/Movie-recommendation-system)**
+**Tech:** `Python` `Pandas` `Scikit-learn`
 
-`Python` `Pandas` `Scikit-learn`
+🔗 [View Project →](https://github.com/Rohmasaeed/Movie-recommendation-system)
 
-</td>
-
-<td width="50%">
+---
 
 ### 📈 Customer Churn Prediction
 
 Machine learning classification project comparing multiple models for predicting customer churn.
 
-**Models:** Logistic Regression • Random Forest • Gradient Boosting
+**Models:** `Logistic Regression` `Random Forest` `Gradient Boosting`
 
-`Python` `Pandas` `Scikit-learn`
+**Best Accuracy:** `86.34%`
 
-</td>
-</tr>
-</table>
+**Tech:** `Python` `Pandas` `Scikit-learn`
 
 ---
 
@@ -217,12 +164,12 @@ Machine learning classification project comparing multiple models for predicting
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohmasaeed&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170" alt="Rohma's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohmasaeed&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170" alt="GitHub Statistics" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohmasaeed&layout=compact&hide_border=true" height="170" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohmasaeed&hide_border=true" height="170" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohmasaeed&hide_border=true" height="170" alt="GitHub Contribution Streak" />
 </p>
 
 ---
@@ -246,19 +193,18 @@ Machine learning classification project comparing multiple models for predicting
     <img src="https://img.shields.io/badge/LinkedIn-Connect-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Rohmasaeed">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 <p align="center">
-  📫 <b>Open to:</b>
-  Data Science • Machine Learning • AI • Generative AI • Internship Opportunities
+  <b>Open to:</b> Data Science • Machine Learning • AI • Generative AI • Internship Opportunities
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=100&section=footer&animation=twinkling" width="100%" alt="Animated Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&animation=twinkling&color=gradient" width="100%" alt="Animated Footer" />
 </p>
 
 <p align="center">
